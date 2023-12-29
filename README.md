@@ -8,6 +8,8 @@ My Learning To-Do List:
 - How To Build Compilers: Enough said. Love the nitty gritty.
 - Godot: This engine seems exciting, extensible, and flexible. Who doesn't love Open Source either.
 
+![Jake Abed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake-abed&show_icons=true&theme=transparent)
+
 <!---
 jake-abed/jake-abed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
