@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jake Abed (@jake-abed)
-- 👀 I’m interested in Web Development and Video Games
-- 🌱 I’m work primarily in JS/TS, Node.js, Deno, and Fresh.
+- 🌱 I’m work primarily in JS/TS, Elixir/Phoenix, Node.js, Deno, and Fresh.
 - 💞️ I’m looking to collaborate on virtually anything, but I'd love to work on creating software to help nerdy people, small businesses, non-profits, and potentially teachers. I'm open to anything.
 
 My Learning To-Do List:
