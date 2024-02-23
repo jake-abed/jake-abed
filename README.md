@@ -3,7 +3,6 @@
 - 💞️ I’m looking to collaborate on virtually anything, but I'd love to work on creating software to help nerdy people, small businesses, non-profits, and potentially teachers. I'm open to anything.
 
 My Learning To-Do List:
-- Elixir: Functional programming is super cool! Elixir also has the coolest logo.
 - How To Build Compilers: Enough said. Love the nitty gritty.
 - Godot: This engine seems exciting, extensible, and flexible. Who doesn't love Open Source either.
 
