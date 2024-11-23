@@ -1,4 +1,4 @@
-Elixir, JS/TS, and Godot 4
+Elixir, JS/TS, Go, and Godot!
 
 Not sure where I am or what I'm doing, but I'm having a good time.
 
